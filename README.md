@@ -12,18 +12,18 @@ Example 1:
 
 ![](Q1_1.jpg)
 
-Input: l1 = [2,4,3], l2 = [5,6,4]
-Output: [7,0,8]
+Input: l1 = [2,4,3], l2 = [5,6,4]  
+Output: [7,0,8]  
 Explanation: 342 + 465 = 807.
 
 Example 2:
 
-Input: l1 = [0], l2 = [0]
+Input: l1 = [0], l2 = [0]  
 Output: [0]
 
 Example 3:
 
-Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
+Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]  
 Output: [8,9,9,9,0,0,0,1]
 
 **Constraints**
@@ -38,14 +38,14 @@ Example 1:
 
 ![](Q2_1.jpg)
 
-Input: head = [1,2,3,4,5], k = 2
+Input: head = [1,2,3,4,5], k = 2  
 Output: [4,5,1,2,3]
 
 Example 2:
 
 ![](Q2_2.jpg)
 
-Input: head = [0,1,2], k = 4
+Input: head = [0,1,2], k = 4  
 Output: [2,0,1]
 
 **Constraints**
